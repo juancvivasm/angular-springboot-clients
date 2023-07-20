@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Juan Carlos",
+        "lastName": "Vivas M",
+        "createAt": "juanc.vivasm@gmail.com",
+        "email": "2023-02-03"
+    },
+    {
+        "id": 2,
+        "name": "Wilmarys",
+        "lastName": "Navas",
+        "createAt": "wilmarysnavas@gmail.com",
+        "email": "2023-02-03"
+    },
+    {
+        "id": 3,
+        "name": "Juan David",
+        "lastName": "Vivas N",
+        "createAt": "juanc.vivasm@gmail.com",
+        "email": "2023-02-03"
+    }
+]
