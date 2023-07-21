@@ -20,12 +20,12 @@ Es una aplicación web simple, que permite listar, agregar, editar y eliminar cl
   - MYSQL_PASSWORD=12345
   - MYSQL_DB=db_springboot
   - MYSQL_PORT=3306
-- Ejecutar en la terminal el comando `npm install` en el directorio de clients-frontend/.
+- Ejecutar en la terminal el comando `npm install`, en el directorio clients-frontend/.
 
 ## Ejecutar la aplicación
 
 - **Backend:** Se debe ejecutar el comando `./mvnw spring-boot:run` en el directorio de la api/.
 
-    -> La API estará disponible en http://localhost:8080 Ej. http://localhost:8080/api/clients
+    -> La API estará disponible (Ej. http://localhost:8080/api/clients)
 
-- **Frontend:** Se debe ejecutar en la terminal el comando `npm run start` Y la aplicación estará disponible en http://localhost:4200/clients.
+- **Frontend:** Se debe ejecutar en la terminal, el comando `npm run start` en el directorio: clients-frontend/ y la aplicación estará disponible en http://localhost:4200/clients.
